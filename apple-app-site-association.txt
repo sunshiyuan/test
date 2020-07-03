@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5QNVG7D9CB.com.hz.wjlj.HeLLo",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
